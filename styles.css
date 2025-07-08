@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    font-family: 'Orbitron';
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #1F2937;
+    width: 100%;
+    padding-left: 20px;
+    padding-right: 20px;
+    color: #F9FAF8;
+}
+
+nav ul {
+    list-style-type: none;
+    display: flex;
+    gap: 20px;
+}
