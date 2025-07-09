@@ -103,18 +103,22 @@ nav ul {
     display: flex;
     flex-direction: column;
     background-color: #E5E7EB;
-    padding: 20px 20px 80px 20px;
+    padding: 80px 20px 80px 20px;
+    justify-content: center;
 }
 
 .quote section blockquote {
     font-size: 36px;
     font-style: italic;
     color: #1F2937;
+    padding-left: 250px;
+    padding-right: 250px;
 }
 
 .quote section p {
     display: flex;
     justify-content: right;
+    padding-right: 300px;
 }
 
 .mailing-list {
